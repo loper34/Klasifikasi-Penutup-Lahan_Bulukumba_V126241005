@@ -1,0 +1,6 @@
+system:index,ID_Kelas,Luas_ha,Nama_Kelas,.geo
+0,1,76611.06766546858,Vegetasi,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,2,30114.45897932702,Sawah,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,3,3023.9701581522036,Badan Air,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,4,1753.5769220020952,Lahan Terbuka,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,5,5813.722403932418,Lahan Terbangun,"{""type"":""MultiPoint"",""coordinates"":[]}"
